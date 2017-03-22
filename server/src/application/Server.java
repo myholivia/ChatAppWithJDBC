@@ -704,7 +704,7 @@ public class Server extends Application {
 
 		String username = "root";
 
-		String password = "060304BLUE^ya";//Use your MySql password
+		String password = "000000";//Use your MySql password
 
 		Class.forName(driver);
 
